@@ -64,11 +64,6 @@ namespace Opd
             return returnbool;
         }
 
-        private void Invoke(Action action)
-        {
-            throw new NotImplementedException();
-        }
-
         //Returns a a list based on a list provided which contains common substitutions to characters in the list. (eg, crap > cr@p)
         private List<string> SubstituteCharacters(List<string> _list)
         {

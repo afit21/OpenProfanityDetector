@@ -19,7 +19,8 @@ namespace Opd
             "twat",
             "cock",
             "piss",
-            "crap"
+            "crap",
+            "rape"
         };
 
         public readonly List<string> CleanWords = new List<string> {
