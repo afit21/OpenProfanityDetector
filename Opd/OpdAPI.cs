@@ -27,8 +27,6 @@ namespace Opd
             //Removes words that are clean, but may be detected as hidden profanity (eg, Niger or Therapist)
             Phrase = RemoveWordsInList(Phrase, clean);
 
-            Console.WriteLine(Phrase);
-
             //Checks for profanity
             if (lookForWordsInList(Phrase, profanity))
                 return true;
