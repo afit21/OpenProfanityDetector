@@ -1,4 +1,4 @@
-# Profanity/Curse Word Detection Untility/Library
+# Profanity/Curse Word Detection Utility/Library
 #### For .NET Framework 4.5
 #### Disclaimer: Contents of the Wordlists.cs may be found offensive.
 
